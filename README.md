@@ -16,8 +16,8 @@ This repository collects impressive SIMD libraries and examples.
 
 ### x86-64
 
-* [AVX mathfunc](https://github.com/reyoung/avx_mathfun) - AVX-optimized implementations of mathematical functions.
-* [AVX/AVX-512 mathfunc](https://github.com/ccsoni/AVX-and-AVX-512-mathfunc) - AVX/AVX-512-optimized implementations of mathematical functions.
+* [reyoung/avx_mathfun](https://github.com/reyoung/avx_mathfun) - AVX-optimized implementations of mathematical functions.
+* [ccsoni/AVX-and-AVX-512-mathfunc](https://github.com/ccsoni/AVX-and-AVX-512-mathfunc) - AVX/AVX-512-optimized implementations of mathematical functions.
 
 ### Various Architectures
 
