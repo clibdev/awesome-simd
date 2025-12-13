@@ -1,0 +1,30 @@
+# Awesome SIMD
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+This repository collects impressive SIMD libraries and examples.
+
+## Features Detection
+
+### CPU Features
+
+* [google/cpu_features](https://github.com/google/cpu_features) - C library to retrieve CPU features at runtime.
+* [pytorch/cpuinfo](https://github.com/pytorch/cpuinfo) - C library to retrieve CPU features at runtime.
+* [steinwurf/cpuid](https://github.com/steinwurf/cpuid) - C++ library to retrieve CPU features at runtime.
+
+## Math
+
+### x86-64
+
+* [AVX mathfunc](https://github.com/reyoung/avx_mathfun) - AVX-optimized implementations of mathematical functions.
+* [AVX/AVX-512 mathfunc](https://github.com/ccsoni/AVX-and-AVX-512-mathfunc) - AVX/AVX-512-optimized implementations of mathematical functions.
+
+### Various Architectures
+
+* [JishinMaster/simd_utils](https://github.com/JishinMaster/simd_utils) - A header only library implementing common mathematical functions using SIMD intrinsics.
+
+## Common Library
+
+### ARM
+
+* [ARM-software/optimized-routines](https://github.com/ARM-software/optimized-routines) - a collection of optimized implementations of common library functions for ARM CPUs.
