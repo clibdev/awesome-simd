@@ -28,3 +28,9 @@ This repository collects impressive SIMD libraries and examples.
 ### ARM
 
 * [ARM-software/optimized-routines](https://github.com/ARM-software/optimized-routines) - a collection of optimized implementations of common library functions for ARM CPUs.
+
+## Machine Learning
+
+### x86-64
+
+* [oysteijo/simd_neuralnet](https://github.com/oysteijo/simd_neuralnet) - feed-forward neural network implementation in C and AVX/AVX2/AVX-512.
